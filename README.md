@@ -1,8 +1,10 @@
-= Python Web Agent for Open Web Monitoring
+Python Web Agent for Open Web Monitoring
+========================================
 
 This is the Web Agent to be used in conjunction with Open Web Monitoring.
 
-== Requirements
+Requirements
+------------
 
 The python web agent requires the following software to be installed:
 
