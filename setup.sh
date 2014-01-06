@@ -21,6 +21,7 @@ wget https://bitbucket.org/pypa/setuptools/downloads/ez_setup.py
 python ez_setup.py
 easy_install pip
 pip install selenium
+pip install pytest
 
 deactivate
 
